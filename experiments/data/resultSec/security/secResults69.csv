@@ -1,0 +1,3 @@
+id,sender,count,average_response_time
+management/78a1a905-c56e-4282-b758-be15bb4dbe98,management/7d4ff13e-18e9-4095-8d58-6bbe7a56837b,2,2
+charging/12c07d87-1d17-41f6-abc2-30ddb900d6f4,management/7d4ff13e-18e9-4095-8d58-6bbe7a56837b,2,0

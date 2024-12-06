@@ -1,0 +1,13 @@
+id,sender,count,average_response_time
+m1,c2,2,22
+m1,c1,2,32
+m1,m2,2,11
+m1,s1,2,8
+m1,s2,2,32
+m2,c2,2,21
+m2,c1,2,18
+m2,m1,2,13
+m2,s1,2,33
+m2,s2,2,13
+s1,s2,2,23
+s2,s1,2,20

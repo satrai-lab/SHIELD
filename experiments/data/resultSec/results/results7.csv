@@ -1,0 +1,6 @@
+id,sender,count,average_response_time
+c1,m1,475,109
+c1,m2,232,76
+c2,m1,475,89
+c2,m2,232,71
+s1,s2,464,368
