@@ -93,5 +93,4 @@ If using this code for research purposes, please cite:
 }
 ```
 ## Acknowledgements
-This work is supported by the Horizon Europe project DI-Hydro under grant agreement number 101122311 and by the Avvio alla Ricerca Sapienza grant AR2241902B426269. We acknowledge as well support from the European Union’s Horizon 2020 research
-and innovation program under the Marie Skłodowska-Curie grant agreement No. 10100782
+This work is supported by the Horizon Europe project DI-Hydro under grant agreement number 101122311 and by the Avvio alla Ricerca Sapienza grant AR2241902B426269. We acknowledge as well support from the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie grant agreement No. 10100782.
