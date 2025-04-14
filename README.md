@@ -78,8 +78,19 @@ mosquitto version 2.0.18 running
 
 ## Cite this work
 
+If using this code for research purposes, please cite:
+
 ```
-TBD
+@inproceedings{1.sac2025,
+  title={{SHIELD: Assessing Security-by-Design in Federated Data Spaces Using Attack Graphs}},
+  author={Palma, Alessandro and Papadakis, Nikolaos and Bouloukakis, Georgios and Garcia-Alfaro, Joaquin and Sospetti, Mattia and  Magoutis, Kostas},
+  booktitle={40th ACM/SIGAPP Symposium On Applied Computing (SAC 2025)},
+  year={2025},
+  publisher={ACM},
+  month={ },
+  doi={ },
+  url={ },
+}
 ```
 ## Acknowledgements
 This work is supported by the Horizon Europe project DI-Hydro under grant agreement number 101122311 and by the Avvio alla Ricerca Sapienza grant AR2241902B426269. We acknowledge as well support from the European Union’s Horizon 2020 research
