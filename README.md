@@ -81,7 +81,7 @@ mosquitto version 2.0.18 running
 If using this code for research purposes, please cite:
 
 ```
-@inproceedings{1.sac2025,
+@inproceedings{Palma@SAC2025,
   title={{SHIELD: Assessing Security-by-Design in Federated Data Spaces Using Attack Graphs}},
   author={Palma, Alessandro and Papadakis, Nikolaos and Bouloukakis, Georgios and Garcia-Alfaro, Joaquin and Sospetti, Mattia and  Magoutis, Kostas},
   booktitle={40th ACM/SIGAPP Symposium On Applied Computing (SAC 2025)},
