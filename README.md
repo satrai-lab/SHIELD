@@ -81,15 +81,22 @@ mosquitto version 2.0.18 running
 If using this code for research purposes, please cite:
 
 ```
-@inproceedings{Palma@SAC2025,
-  title={{SHIELD: Assessing Security-by-Design in Federated Data Spaces Using Attack Graphs}},
-  author={Palma, Alessandro and Papadakis, Nikolaos and Bouloukakis, Georgios and Garcia-Alfaro, Joaquin and Sospetti, Mattia and  Magoutis, Kostas},
-  booktitle={40th ACM/SIGAPP Symposium On Applied Computing (SAC 2025)},
-  year={2025},
-  publisher={ACM},
-  month={ },
-  doi={ },
-  url={ },
+@inproceedings{10.1145/3672608.3707797,
+author = {Palma, Alessandro and Papadakis, Nikolaos and Bouloukakis, Georgios and Garcia-Alfaro, Joaquin and Sospetti, Mattia and Magoutis, Kostas},
+title = {SHIELD: Assessing Security-by-Design in Federated Data Spaces Using Attack Graphs},
+year = {2025},
+isbn = {9798400706295},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3672608.3707797},
+doi = {10.1145/3672608.3707797},
+abstract = {Federated data spaces allow organizations to share and control their own data across various domains, but their exposure to cyber attacks has increased due to a surge in newly discovered vulnerabilities. Existing solutions to secure them focus on messaging protocol protection (e.g., using cryptographic means), but this is not sufficient. Attackers may exploit additional vulnerabilities to cause significant issues (e.g., disrupting the availability of services). To this end, we propose SHIELD, a security-by-design approach for federated data spaces, which leverages attack graphs and trust computation to mitigate the risks of cyber attacks. Mitigation is accomplished by proactively assessing the data spaces' weaknesses and implementing security messaging measures to prevent detrimental attacks. A prototype implementation of SHIELD using publish/subscribe as a messaging mechanism is experimentally evaluated over a real architecture in a V2X (Vehicle-to-Everything) scenario.},
+booktitle = {Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing},
+pages = {480–489},
+numpages = {10},
+keywords = {federated data spaces, security by design, attack graph, trust management},
+location = {Catania International Airport, Catania, Italy},
+series = {SAC '25}
 }
 ```
 ## Acknowledgements
